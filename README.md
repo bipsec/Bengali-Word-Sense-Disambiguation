@@ -31,8 +31,8 @@ split on a ratio of (70:20:10). From there, to assess the final result, we ran t
 | Model  | Test Score | Validation Score
 | ------------- | ------------- | ------------- |
 | Naive Bayes  | 79.6%  | 75.97% |
-| SVM  | 43.95%  | 75.37% |
-| KNN  | 51.93%  | 75.37% |
+| SVM  | 75.37%  | 74.3% |
+| KNN  | 52.74%  | 51.93% |
 | LSTM  | 78.67%  | 69.37% |
 | Bi-LSTM + Glove | 78.73%  | 72.21% |
 
