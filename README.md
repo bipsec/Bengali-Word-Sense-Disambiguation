@@ -34,7 +34,7 @@ split on a ratio of (70:20:10). From there, to assess the final result, we ran t
 | SVM  | 75.37%  | 74.3% |
 | KNN  | 52.74%  | 51.93% |
 | LSTM  | 78.67%  | 69.37% |
-| Bi-LSTM + Glove | 78.73%  | 72.21% |
+| Bi-LSTM + Glove | 81.73%  | 72.21% |
 
 
 ## Author
